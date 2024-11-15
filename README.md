@@ -4,8 +4,8 @@ This project is part of Assignment 1 of AI ML for SDG 3: Good Health and Well-be
 all ages. This model can support early detection and intervention in addressing health risks and disease prevention, contributing to improved healthcare outcomes and well-being aligned with UN Sustainable Development Goal 3.
 ## Outputs
 Results for Logistic Regression:
-  Accuracy: 0.7747729394788218
-  Precision: 0.7387441130298272
+Accuracy: 0.7747729394788218
+Precision: 0.7387441130298272
   Recall: 0.5560447239692523
   F1-Score: 0.6321138496787871
   Kappa: 0.4747580429621122
